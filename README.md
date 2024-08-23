@@ -1,2 +1,2 @@
-# [Netflix Clone 🔗](https://sandipv2.github.io/netflix/)
+# [Netflix Clone 🔗](https://mynetflixindia.vercel.app/)
 Built with vanilla HTML, CSS and JavaScript.
